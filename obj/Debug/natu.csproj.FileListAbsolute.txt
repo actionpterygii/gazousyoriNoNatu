@@ -1,0 +1,70 @@
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\bin\Debug\natu.exe.config
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\bin\Debug\natu.exe
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\bin\Debug\natu.pdb
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.Form1.resources
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.Properties.Resources.resources
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.exe
+c:\users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.pdb
+C:\Users\shark\documents\visual studio 2013\Projects\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\bin\Debug\natu.exe.config
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.exe
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.pdb
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\bin\Debug\natu.exe
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\bin\Debug\natu.pdb
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.Form1.resources
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.Properties.Resources.resources
+G:\KUTC\卒研sotukenno卒研\ごねんせい\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe.config
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.exe
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.pdb
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.pdb
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Form1.resources
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Properties.Resources.resources
+G:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe.config
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.exe
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.pdb
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.pdb
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Form1.resources
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Properties.Resources.resources
+F:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe.config
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.exe
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.pdb
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.exe
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\bin\Debug\natu.pdb
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Form1.resources
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.Properties.Resources.resources
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+E:\近大高専卒研 - 飯田嵩之\いいだ\555555555555555NHH\natu\natu\bin\Debug\natu.exe.config
+E:\近大高専卒研 - 飯田嵩之\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.exe
+E:\近大高専卒研 - 飯田嵩之\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.pdb
+G:\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\bin\Debug\natu.exe.config
+G:\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.exe
+G:\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.pdb
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\bin\Debug\natu.exe.config
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.exe
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.pdb
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\bin\Debug\natu.exe
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\bin\Debug\natu.pdb
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.Form1.resources
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.Properties.Resources.resources
+C:\Users\Takayuki\Desktop\卒研_飯田嵩之_卒研\いいだ\555555555555555NHH\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+C:\data\近大高専\研究\natu\natu\bin\Debug\natu.exe.config
+C:\data\近大高専\研究\natu\natu\bin\Debug\natu.exe
+C:\data\近大高専\研究\natu\natu\bin\Debug\natu.pdb
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.csprojResolveAssemblyReference.cache
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.Form1.resources
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.Properties.Resources.resources
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.csproj.GenerateResource.Cache
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.csproj.CoreCompileInputs.cache
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.exe
+C:\data\近大高専\研究\natu\natu\obj\Debug\natu.pdb
